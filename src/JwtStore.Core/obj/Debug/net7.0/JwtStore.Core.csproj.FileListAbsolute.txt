@@ -1,0 +1,12 @@
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.deps.json
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/bin/Debug/net7.0/JwtStore.Core.pdb
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.csproj.AssemblyReference.cache
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.AssemblyInfoInputs.cache
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.AssemblyInfo.cs
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.csproj.CoreCompileInputs.cache
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/refint/JwtStore.Core.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/JwtStore.Core.pdb
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/obj/Debug/net7.0/ref/JwtStore.Core.dll
