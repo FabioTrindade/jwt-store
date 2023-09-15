@@ -8,10 +8,14 @@ public class Verification : ValueObject
     {
     }
 
-    public string Code { get; } = Guid.NewGuid().ToString("N")[..6].ToUpper();
+    public string Code { get; } = Guid.NewGuid().ToString("N")[..8].ToUpper();
+
     public DateTime? ExpiresAt { get; private set; } = DateTime.UtcNow.AddMinutes(5);
+
     public DateTime? VerifiedAt { get; private set; } = null;
+    
     public bool IsActive => VerifiedAt != null && ExpiresAt == null;
+
 
     public void Verify(string code)
     {

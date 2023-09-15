@@ -10,3 +10,6 @@
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/obj/Debug/net7.0/refint/JwtStore.Infra.dll
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/obj/Debug/net7.0/JwtStore.Infra.pdb
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/obj/Debug/net7.0/ref/JwtStore.Infra.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/bin/Debug/net7.0/JwtStore.Core.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/bin/Debug/net7.0/JwtStore.Core.pdb
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/obj/Debug/net7.0/JwtStore.Infra.csproj.CopyComplete
