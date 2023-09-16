@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "99HxJvhYLPVlWLaN6ksMwKgrP81rYJoSIMWKHjuaFUqQWSgKz93aB0Gw+AUxpgpuU3Jms6KwBcyOhPnygJ7OJA==",
+  "dgSpecHash": "2zMdKRttIMouQdfIUGP8iZVr387jmMS7LNQwE+vkZctpvX/ig1ba7n7eimDPhla2p2ZcYqTGDtIEHVkR3Utd1A==",
   "success": true,
   "projectFilePath": "/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/JwtStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/fabiotrindade/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

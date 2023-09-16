@@ -9,6 +9,15 @@ public class User : Entity
     { 
     }
 
+    public User(string name
+        , Email email
+        , Password password)
+    {
+        Name = name;
+        Email = email;
+        Password = password;
+    }
+
     public User(Email email, string? password = null)
     {
         Email = email;

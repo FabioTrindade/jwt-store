@@ -26,9 +26,11 @@ public partial class Email : ValueObject
             throw new Exception("E-mail inválido");
     }
 
+
     public string Address { get; }
     public string Hash => Address.ToBase64();
     public Verification Verification { get; private set; } = new();
+
 
     public void ResendVerification()
         => Verification = new Verification();
@@ -44,5 +46,4 @@ public partial class Email : ValueObject
 
     [GeneratedRegex(Pattern)]
     private static partial Regex EmailRegex();
-
 }
