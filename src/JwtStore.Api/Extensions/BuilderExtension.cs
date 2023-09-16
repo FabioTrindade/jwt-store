@@ -1,6 +1,7 @@
 
 using System.Text;
 using JwtStore.Core;
+using JwtStore.Infra.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
@@ -50,5 +51,11 @@ public static class BuilderExtenssion
                 };
             });
         builder.Services.AddAuthorization();
+    }
+
+    public static void AddMediatR(this WebApplicationBuilder builder)
+    {
+        builder.Services.AddMediatR(m
+            => m.RegisterServicesFromAssembly(typeof(Configuration).Assembly));
     }
 }

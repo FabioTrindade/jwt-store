@@ -1,7 +1,8 @@
-
-using JwtStore.Core.AccountContext.Entities;
+using JwtStore.Core.Contexts.AccountContext.Entities;
 using JwtStore.Infra.Contexts.AccountContext.Mappings;
 using Microsoft.EntityFrameworkCore;
+
+namespace JwtStore.Infra.Data;
 
 public class AppDbContext : DbContext
 {

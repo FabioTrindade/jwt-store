@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gbP5zb9IkZoqJSp2hO4qza61wAhEuJKhUlhqZozC318cLHZ0x6XWwUb3JwPf+Qe9GnHg8FALyS1LgNPbDWf5Jw==",
+  "dgSpecHash": "aGHc5CbzfoWCRFN5Lut7mRVVc6BF85CzpCZ5eqMhMfdGgE87A1gLkW2X+3PRPC1/2B7md+kAp2WGn77Mgb7BBg==",
   "success": true,
   "projectFilePath": "/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/JwtStore.Api.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "/Users/fabiotrindade/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.11/microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

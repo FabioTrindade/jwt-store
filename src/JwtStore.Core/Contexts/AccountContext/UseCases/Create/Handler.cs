@@ -1,12 +1,12 @@
-using JwtStore.Core.AccountContext.Entities;
-using JwtStore.Core.AccountContext.UseCases.Create.Contract;
-using JwtStore.Core.AccountContext.ValueObjects;
-using JwtStore.Core.SharedContext.UseCases;
-using static JwtStore.Core.AccountContext.UseCases.Create.Response;
+using JwtStore.Core.Contexts.AccountContext.Entities;
+using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contract;
+using JwtStore.Core.Contexts.AccountContext.ValueObjects;
+using MediatR;
+using static JwtStore.Core.Contexts.AccountContext.UseCases.Create.Response;
 
-namespace JwtStore.Core.AccountContext.UseCases.Create;
+namespace JwtStore.Core.Contexts.AccountContext.UseCases.Create;
 
-public class Handler
+public class Handler : IRequestHandler<Request, Response>
 {
     private readonly IRepository _repository;
     private readonly IService _service;

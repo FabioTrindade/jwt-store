@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "CipGeBEq2tcfOPdyj/SBhOG3qff+NEZaKvAQb3P5zqnx9GfCJPtpR/+k/dzPT2Eow5Irn2iaZdcgxPMeXhxH5w==",
+  "dgSpecHash": "2g6ZeOTuj3mrBY9mfIoLROFSh67Sg9MADoWlvdm/w3Y9coACFANKKgJEROqKUWj9YZ3IEekavBkj/a2wRbb9eQ==",
   "success": true,
   "projectFilePath": "/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Infra/JwtStore.Infra.csproj",
   "expectedPackageFiles": [
     "/Users/fabiotrindade/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/fabiotrindade/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2zMdKRttIMouQdfIUGP8iZVr387jmMS7LNQwE+vkZctpvX/ig1ba7n7eimDPhla2p2ZcYqTGDtIEHVkR3Utd1A==",
+  "dgSpecHash": "xzlhkoqIHjfeYeOrivhR92TLIVH08hPkI6a7zPKwsw30HNRtb2gQRDc7cKYzi8E+HxgaYO43fncAl9f+bKRfdg==",
   "success": true,
   "projectFilePath": "/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Core/JwtStore.Core.csproj",
   "expectedPackageFiles": [
-    "/Users/fabiotrindade/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+    "/Users/fabiotrindade/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/fabiotrindade/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

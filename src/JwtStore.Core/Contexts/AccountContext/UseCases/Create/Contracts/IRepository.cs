@@ -1,6 +1,6 @@
-using JwtStore.Core.AccountContext.Entities;
+using JwtStore.Core.Contexts.AccountContext.Entities;
 
-namespace JwtStore.Core.AccountContext.UseCases.Create.Contract;
+namespace JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contract;
 
 public interface IRepository
 {
