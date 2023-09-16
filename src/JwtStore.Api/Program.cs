@@ -1,7 +1,9 @@
 using JwtStore.Api.Extensions;
-using Microsoft.AspNetCore.Builder;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 builder.AddConfiguration();
 builder.AddDatabase();
@@ -12,6 +14,10 @@ builder.AddAccountContext();
 builder.AddMediatR();
 
 var app = builder.Build();
+
+app.UseSwagger();
+app.UseSwaggerUI();
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();

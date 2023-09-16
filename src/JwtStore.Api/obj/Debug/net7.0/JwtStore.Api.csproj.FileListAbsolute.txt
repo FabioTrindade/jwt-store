@@ -79,3 +79,9 @@
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/SendGrid.dll
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/StarkbankEcdsa.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/obj/Debug/net7.0/JwtStore.Api.MvcApplicationPartsAssemblyInfo.cs
