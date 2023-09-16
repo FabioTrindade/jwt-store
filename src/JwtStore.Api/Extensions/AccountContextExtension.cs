@@ -1,3 +1,6 @@
+using MediatR;
+using Microsoft.IdentityModel.Tokens;
+
 namespace JwtStore.Api.Extensions;
 
 public static class AccountContextExtension
@@ -20,7 +23,16 @@ public static class AccountContextExtension
     {
         #region Create
 
-            
+            app.MapPost("api/v1/users", async(JwtStore.Core.Contexts.AccountContext.UseCases.Create.Request request,
+                IRequestHandler<
+                    JwtStore.Core.Contexts.AccountContext.UseCases.Create.Request,
+                    JwtStore.Core.Contexts.AccountContext.UseCases.Create.Response> handler) =>
+            {
+                var result = await handler.Handle(request, new CancellationToken());
+                return result.IsSuccess
+                    ? Results.Created($"api/v1/users/{result.Data?.Id}", result)
+                    : Results.Json(result, statusCode: result.Status);
+            });
             
         #endregion
     }

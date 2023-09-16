@@ -73,3 +73,9 @@
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Flunt.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/MediatR.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/SendGrid.dll
+/Users/fabiotrindade/Projects/JwtStore/src/JwtStore.Api/bin/Debug/net7.0/StarkbankEcdsa.dll
