@@ -1,5 +1,5 @@
 using JwtStore.Core.Contexts.AccountContext.Entities;
-using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contract;
+using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contracts;
 using JwtStore.Core.Contexts.AccountContext.ValueObjects;
 using MediatR;
 using static JwtStore.Core.Contexts.AccountContext.UseCases.Create.Response;

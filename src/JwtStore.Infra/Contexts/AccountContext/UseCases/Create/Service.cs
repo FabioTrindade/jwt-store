@@ -1,6 +1,6 @@
 using JwtStore.Core;
 using JwtStore.Core.Contexts.AccountContext.Entities;
-using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contract;
+using JwtStore.Core.Contexts.AccountContext.UseCases.Create.Contracts;
 using SendGrid;
 using SendGrid.Helpers.Mail;
 
