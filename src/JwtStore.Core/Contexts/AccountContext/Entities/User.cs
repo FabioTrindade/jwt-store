@@ -32,6 +32,8 @@ public class User : Entity
 
     public string Image { get; private set; } = string.Empty;
 
+    public List<Role> Roles { get; set; } = new();
+    
     public void UpdatePassword(string plainTextPassword, string code)
     {
         if (!string.Equals(code.Trim(), Password.ResetCode.Trim(), StringComparison.CurrentCultureIgnoreCase))
